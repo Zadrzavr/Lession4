@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args) {
-        String[] words = {"Hello", "Car", "Witcher", "Cat", "Dog", "God","Angels", "USA", "Box", "Riven"};
+        String[] words = {"Hello", "Car", "Witcher", "Cat", "Dog", "God","Angels", "USA", "Box", "Riven", "Car"};
 
         HashMap<String, Integer> Words = new HashMap<>();
 
